@@ -18,3 +18,39 @@ h2{
     line-height: 20px;
     letter-spacing: 0.005em;
 }
+
+.btn-grp{
+    text-align: center;
+    
+}
+.btn-grp p{
+    color: white;
+    border-radius: 4px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+}
+.clear-btn{
+    background: #ff3838;
+    width: 232px;
+    height: 48px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.clear-btn:hover{
+    background: #ec0101;
+}
+.review-btn{
+    background: #e3992a;
+    width: 232px;
+    height: 48px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.review-btn:hover{
+    background: #FF9900;
+}
