@@ -1,4 +1,8 @@
-
+.cart{
+    position: sticky;
+    top: 0;
+    padding: 30px 20px;
+}
 h2{
     text-align: center;
     font-size: 25px;
@@ -7,4 +11,10 @@ h2{
 
 .cart-content{
     margin-left: 25px;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
 }
